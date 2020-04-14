@@ -1,5 +1,5 @@
 # SocialMedia
-Social media's public data. Data from Twitter and Facebook used only for research propouses.]
+Social media's public data. Data from Twitter and Facebook used only for research propouses.
 
 All data presented here was obtained with API from social media and all data here is public. No user were inserted.
 
