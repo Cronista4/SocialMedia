@@ -1,0 +1,297 @@
+@relation sentimentoClasme_2classes
+
+@attribute frase string
+@attribute classe {positiva,negativa}
+
+@data
+"lsramos toda vez que me chama de gay de forma pejorativa URL",negativa
+"14 hour freezing does it make sense URL",negativa
+"rt itsjimminie siempre es lo mismo army no se esmera en las visualizaciones para que vengas y nos digas que son views falsas ytunfre…",negativa
+"maldição URL",negativa
+"e o que tem o cu com as calças URL",negativa
+"rt elonbachman tesla making miracles out of the ordinary reminds me of the quip that capitalism turns luxuries into commodities wher…",negativa
+"rt dope007 yes far too many frauds out there taking peoples pensions for a ride tsla URL",negativa
+"fuck u URL",negativa
+"follow the money mais grave que crime eleitoral sigam o dinheiro que pagam estes “influenciadores” e  verão corrupção na origem dele URL",negativa
+"nnnnnnnnnnever URL",negativa
+"vai pro inferno esse povo eles não tem mais o que fazer URL",negativa
+"os revolucionários do dce da universidade regional do cariri se comportam como crianças birrentas que rabiscam paredes de propósito tenho certeza que marx se revira no túmulo ao constatar que a nova geração de revolucionários não passa de um bando de catar (...)",negativa
+"another mass shooting in america 😆 URL",negativa
+"essa é a segunda colocada segundo as “pesquisas”🤦🏻‍♀️ URL",negativa
+"leiam a matéria p desmascarar mais um petista👇👇👇 URL",negativa
+"pq não tem um blog aqui perto de casa  😢😢 URL",negativa
+"está explicado pq n dormi URL",negativa
+"billy gibbon’s voice sounds like gravel being grated URL",negativa
+"até o congresso está dormindo pela petezada nãonegocieseuvoto URL",negativa
+"rt ubisoftbrasil nossas mais profundas condolências vão às vítimas e às famílias da tragédia de ontem nós estamos com jacksonville com…",negativa
+"muito óbvio saber qual é a estação boa e qual é a estação ruim eu acho que poderiam ser chamadas assim até hoje URL",negativa
+"rt painefultruths elon musk supports pedoglobalism URL",negativa
+"rt lisamarie61 have you seen the pic of my truck well thats about what i look like concussion head trauma broken clavicle br…",negativa
+"twitter stays knowing URL",negativa
+"rt ericbalbinus os revolucionários do dce da universidade regional do cariri se comportam como crianças birrentas que rabiscam paredes de…",negativa
+"dude just shut up URL",negativa
+"army owns twitter wbk URL",negativa
+"stop the updates give us the next gta URL",negativa
+"smh gta always trying to take my money URL",negativa
+"bad takes from cool people are why twitter was a mistake i will die on this hill URL",negativa
+"esse é o brasileiro esperto mas a culpa dessas maracutaias é da esquerda cria lei em cima de lei dando direitos sem pensar nas consequências  exemplo claro são as empregadas domésticas ficaram brigando por milhões de direitos  levaram URL",negativa
+"tendo em vista que você é candidato a deputado e seu partido está coligado com geraldoalckmin não ficou claro se você vai votar nele para presidente poderia esclarecer URL",negativa
+"e eu sou contra até pra você tentar assumir um cargo público  pra pqp URL",negativa
+"you guys are the reason why i can’t sell my merch in peace  frfr URL",negativa
+"kkkkkkkkkkkk ele tinha que ser contra ele mesmo ladrão safado eu sou contra o garotinho ser validado pra disputar eleição com a ficha mais que suja URL",negativa
+"mano mulher esquilo ai marvel que decadência URL",negativa
+"eu acho que garotinho é contra o rio de janeiro URL",negativa
+"rt joovitorfelon pq não tem um blog aqui perto de casa  😢😢 URL",negativa
+"i didnt think that people could kill thousands and still call them decent human being and kind society is strange URL",negativa
+"onunãomandanobrasil onuvaicuidardavenezuela URL",negativa
+"eu fui suspenso simplesmente por emitir minha opinião twitterbrasil cadê a atitude se é de esquerda vale tudo URL",negativa
+"luciano coutinho indiciado URL",negativa
+"ah pronto URL",negativa
+"rt tponews what a foolish tweet tell me was mccain one of the senators you bribed for your subsidies why don’t you tell the world who…",negativa
+"que cara escroto URL",negativa
+"have you seen the pic of my truck well thats about what i look like concussion head trauma broken clavicle broken ribs arm wrist and no transportation still waiting on surgeries URL",negativa
+"looks pretty every year but there’s no substance to these games can’t justify £60 URL",negativa
+"my response to something 80 of the time URL",negativa
+"gado dmssss URL",negativa
+"rt seesawtrivia name another video you’ve freezed for 15 hours i’m waiting URL",negativa
+"finalmente uma rede social em que o twitter nao podera me censurar jamais URL URL",negativa
+"e pensar que uma piada cancela conta URL",negativa
+"ah pô daí vai derreter mais ainda URL",negativa
+"rt pmlopes está na promoção combo do sanduiche batata frita refil e 3 pontes de safena URL",negativa
+"is this tim is it him someone please tell me its him c URL",negativa
+"ata mas se é o contrario o homem é um lixo vagabundo galinha etc URL",negativa
+"intel should create laptops to more than 3 billions people who live without internet or very slow internet just create laptop with endlessos with low price and good spec URL",negativa
+"a estrutura básica da nossa língua concorda comigo inverno é ruim URL",negativa
+"ser contra o bolsonaro nao significa ser a favor do lula significa tem um pingo de consciencia pra nao apoiar esse bosta URL",negativa
+"amigavc fala isso toda vezmas nunca vem para o brasil afff URL",negativa
+"rt psicth ah vai se ferrar URL",negativa
+"quais partes do cadáver vc mais gosta URL",negativa
+"did i let you know URL",negativa
+"não votem em abortistas URL",negativa
+"papo de cuck URL",negativa
+"dica 10 você vai estar completamente apaixonado e ela tbm mas por outro the end URL",negativa
+"ow ai vai derreter mais URL",negativa
+"que isso mano que coisa triste faz um vídeo animadinho que nem kpop URL",negativa
+"genesis bout to have this on repeat i already know URL",negativa
+"chorando por falta de dinheiro talvez URL",negativa
+"bicho vcs tão dando papo para um cara que até outro dia saiu do seu apartamento na maca sendo segurado por enfermeiros não precisa nem abrir o link URL",negativa
+"esse arrombado num era pra estar preso URL",negativa
+" and i will spam u with them if u keep feeding trolls trolls eat rocks anyways vitamins and minerals 💎 URL",negativa
+"todo mundo já assistiu já pode lançar o segundo URL",negativa
+"o que matam de mulher em sp absurdo URL",negativa
+"ayfkm i‘d call myself a conservative but mccain was a paid shill for the militaryindustrialcomplex and used every chance he got to start a conflict involved w iraq is nazis in ukraine the world lost a great warmonger at best URL",negativa
+"rt mothercabrininy yet makes sure 22 million followers see the poor kids name tsla melaynalokosky narcissisticsociopath URL",negativa
+"rt punishedad elon is cancelled URL",negativa
+"oh shit URL",negativa
+"tipo de cidadão de bem que em breve estará armado decidindo quem vive e quem morre URL",negativa
+"damn this is smart URL",negativa
+"rt ebenezera you lot just recycling the same ideas in new designs smh URL",negativa
+"rt ericbalbinus os revolucionários do dce da universidade regional do cariri se comportam como crianças birrentas que rabiscam paredes de…",negativa
+"caralho esse maluco vai ter uma crise sinistra de hemorróidas URL",negativa
+"and yet bought github to do it properly URL",negativa
+"even twitter follows beniesta URL",negativa
+"brasil o país que nao tem dinheiro pra aumentar o salario mínimo mas tem dinheiro pra aumentar o salario máximo URL",negativa
+"quando fazem o comercial do 500 para o argo 🤦🏽‍♂️ URL",negativa
+"i warn alllll army to not do this can you just imagine how much time we spent during comebacks  URL",negativa
+"precisa explicar URL",negativa
+"shutup yoonseoker URL",negativa
+"yet makes sure 22 million followers see the poor kids name tsla melaynalokosky narcissisticsociopath URL",negativa
+"é réu não é reu é réu não é réu tira casaca bota casaca URL",negativa
+"o rio em calamidade o cara preocupado com maracanã e flamengo kkkkkkkk URL",negativa
+"what a surprise birthdaybans not included seems like quite a big thing has definitely impacted my year many accounts still just permalocked for no real reason so safe to assume its a big impact to many others such awful technical support by twittersupport  (...)",negativa
+"i wheeeezed URL",negativa
+"priorities URL",negativa
+"foi de ter que olhar para cara do caiado também passaria mal por segurar o vômito URL",negativa
+"super funny bro  the 40000 employees you promised a higher price for their shares before taking it back are getting a real kick out of this tsla URL",negativa
+"half life 3 vai sair quando o jovem nerd terminar as dlcs de witcher 3 URL",negativa
+"eu até queria assitir mais enfrentar tudo isso de temporada na na na URL",negativa
+"não temos opção jogar o voto fora votando no amoedo e abrir a porta para a esquerda bolsonaropresidente2018 URL",negativa
+"googledevs how can one get this circle to my school i already graduated but i hope to get this to my school  we currently have gdgoko so  are they the same thing  or different URL",negativa
+"uma coisa que aprendi morando sozinho é que você nunca economiza dinheiro com esponja e detergente uma vez comprei três esponjas de marca vagabunda querendo economizar e era horrível pra limpar não fazia espuma tinha que gastar mais com detergente scotch b (...)",negativa
+"a única coisa que eu realmente lamento não ter dinheiro para comprar é um tesla URL",negativa
+"one more thing for the media to blame video games URL",negativa
+"hope you die next URL",negativa
+"o ser humano anda em círculos e parece esquecer a história é preciso rever o caminho e acabar com esse estado de letargia URL",negativa
+"ah pronto agora romantizaram até a cuckagem URL",negativa
+"canalhas URL",negativa
+"péssima noticia URL",negativa
+"dude he instigated the war in iraq and is the one pushing the russian phobia URL",negativa
+"não vai durar muito as hienas pósmodernas estão só esperando silvio morrer para tomar conta da carcaça do sbt assim como fizeram na globo pós roberto marinho e na abril pós roberto civita osullivanslaw URL",negativa
+"rt gggarci pt sendo pt tudo sendo pago com o nosso dinheiro nenhum espanto faço propaganda de graça pra bolsonaropresidente porque…",negativa
+"so its seems that ubisoft hates rayman why because you barely see him look at how fucking tiny he his wtf URL",negativa
+"chupa mundooo URL",negativa
+"quero ver manter o maracanã sem o flamengo vai virar palco pra show URL",negativa
+"i never would have felt happy to see elonmusk have problems whis tesla but from his tweet URL i am more than happy to see the stock fell 🔞🐶 x 010 URL i assume that u elonmusk compliment a warmonger URL for",negativa
+"redetelecine é muito fã do hiddles baby msm viu kkkkkkkk URL",negativa
+"chorando URL",negativa
+"im sure people could add othersbut hard to argue with most on here URL",negativa
+"to me this just sounds like bull URL",negativa
+"agora vai encher de merda lá URL",negativa
+"not my cup of tea looks live a volvo v40 with a stretched nose  URL",negativa
+"rt louislevau not sure if trolling URL",negativa
+"briga de marido e mulher a gente não mete a colher mas sim a faca no macho URL",negativa
+"gostei dessa matéria pq ensina pra gente onde ficam algumas partes do boi por exemplo o rabo URL",negativa
+"eh boa demais po URL",negativa
+"para de dar desculpinha e devolve nossas views sua fodida URL",negativa
+"what the fuuuuuuck URL",negativa
+"o style de jogadô do tite URL",negativa
+"não se te a colher mesmo porque vai saber cansei de tentar ajudar e a mulher pedir pra não se meter que não precisava cansei de ver policiais se metendo e falando pra ir fazer o bo e a mesma não querer e continuar com o indivíduo tem mts que não tem amor p (...)",negativa
+"rt w2caetano não votem em abortistas URL",negativa
+"será que nois encontra essa putaria toda lá no xvideo URL",negativa
+"rt punishedad elon is cancelled URL",negativa
+"impressionante mesmo é q nenhum depfdrl ou senador viu nadica de nada desde 2005 e qtos deles receberam dindin p suas campeltrs por seu partido político estar coligado com pt nas eleições rs jbs pagou propina para obter empréstimos no bndes URL via jotainf (...)",negativa
+"eu já assisti a todas as temporadas do mayday desastres aéreos e posso atestar fujam dessas companhias aéreas de baixo custo não fazem manutenção decente profissionais trabalham sobrecarregados e esses são os principais motivos de muitos acidentes aéreos U (...)",negativa
+"this should legit be a thing URL",negativa
+"mandei um twitter a uma semana no dm essa empresa não responde ou seja consumidor não é respeitado URL",negativa
+"yes far too many frauds out there taking peoples pensions for a ride tsla URL",negativa
+"querido subway prfv inclua pessoas vegetarianas nas suas promoções ou deixe pelo menos que seja possível retirar a carne é meio ridículo que vc paga 10 reais no lanche de frango e ganha mais 1 lanche de frango mas sem frango ganha só 1 e fica o preço norm  (...)",negativa
+"assistam pra ver que os marginais não vão nos deixar em paz josé dirceu solto pela antijuridico stf está articulando por trás dos panos URL",negativa
+"pt sendo pt tudo sendo pago com o nosso dinheiro nenhum espanto faço propaganda de graça pra bolsonaropresidente porque eu quero mudança URL",negativa
+"ai lcportinho outrosolharesad altairfagundes a empatia que temos com o pcd no brasil a eunathaliar só queria ser uma cliente e tava pagando por isso URL",negativa
+"but the problem is  i dont have a tesla can i have 1 pls URL",negativa
+
+"rt lucyleos2 kaysardadour vai servir lanche mcdiafeliz  no dia 2508  vão ser lanches bem totosos para vcs URL",positiva
+"rt musixmatch here to help you elonmusk  URL",positiva
+"kaysardadour vai servir lanche mcdiafeliz  no dia 2508  vão ser lanches bem totosos para vcs URL",positiva
+"i can’t wait to see this URL",positiva
+"boa kimkataguiri  gostei da análise URL",positiva
+"awesome guitar music URL",positiva
+"it was great to be part of this awesome launch of the developer student clubs program in subsaharan africa check out the video recapping what the experience was like for 2 days in nigeria dscssa URL",positiva
+"🎶 all that is was and will be universe much too big to see time and space never ending disturbing thoughts questions pending limitations of human understanding too quick to criticize obligation to survive we hunger to be alive yeah🎶 URL",positiva
+"impressive URL",positiva
+"cara tou feliz kkk 5 URL",positiva
+"quem vamo cmg URL",positiva
+"isso ñ é um lanche é uma obra de arte URL",positiva
+"new today  amazon rds on vmware will make it as easy to set up operate and scale databases onpremises and in hybrid environments as it is in aws URL",positiva
+"we out hereeee 👽👽 URL",positiva
+"thank you ❤️👌 URL",positiva
+"rt krishjlk 2 mins silence for root users URL",positiva
+"all that is never ever was twis ting tur ning troughthe never URL",positiva
+"quem é seu deputado o meu estava correndo atrás de um brasil melhor kim  URL",positiva
+"📸 jesseleon182 nationaldogday toyotadog wakandaforever URL",positiva
+"wth hahahahahaha URL",positiva
+"i love this song🙌🏼💜💙 URL",positiva
+"krl o telecine ama muito o tom URL",positiva
+"terminar minha leitura 50 tons de cinza pelo olhos de christian grey URL",positiva
+"la noche me está quedando muy skynyrd completísimo repaso de la icónica banda a disfrutar southernrock URL",positiva
+"hell yes URL",positiva
+"rt nixcraft amd is getting ready for 7nm cpu and gpu i am so glad that someone is finally standing up to the intel  URL",positiva
+"eu quero isso aqui pra ontemmmmmm  URL",positiva
+"o amor não precisa de legenda  URL",positiva
+"burgerkingbr acabando com a minha dieta que nem começou 🤤 URL",positiva
+"joseph and his amazing technicolour dreamcoat URL",positiva
+"absolutely pitch perfect writer for this character damn URL",positiva
+"rt cbcebulski thrilled to finally announce the creative team on conan URL",positiva
+"rt loadcomics estamos com asas hoje URL",positiva
+"meu ritual antes de comer é comer URL",positiva
+"rt musixmatch here to help you elonmusk  URL",positiva
+"amen URL",positiva
+"esse é o meu sonho URL",positiva
+"rt saveshplease saveshadowhunters made the list i’m so proud ❤️ URL",positiva
+"jadriantalks you get this yet URL",positiva
+"🤗🤗💞💞 URL",positiva
+"waaa ada army dinotice twitter URL",positiva
+"rt teneetoe see young africans building the future africa through technologyproudly a developer student club lead  guys see highlight…",positiva
+"rt ericakhanson it was great to be part of this awesome launch of the developer student clubs program in subsaharan africa check out th…",positiva
+"i don’t know if i will fall in love with ben hardy like i fell in love with roger decades ago but i will give it a try in november URL",positiva
+"💖this bonjovi always inspires URL",positiva
+"kkkkkkkkkkkkk URL",positiva
+"❤️ URL",positiva
+"quem quiser aparecer aqui em casa com um desse eu faço qualquer coisa URL",positiva
+"eu amo um homem URL",positiva
+"natychaly o job das nossas vidas URL",positiva
+"tokis kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk URL",positiva
+"if any of y’all wanna get me a bottle of this as a wedding gift or whatever i’d be much obliged URL",positiva
+"looks amazing likewise with 1st person view but still wish they made it 3rd person man URL",positiva
+"it just keeps getting better and better URL",positiva
+"chevettão aka supercarro URL",positiva
+"eu sempre netflixbrasil vc me faz mal mfkfkd URL",positiva
+"this is gonna be so cool URL",positiva
+"this is gonna be awesome conan URL",positiva
+"caralho isso é um render 3d URL",positiva
+"aquele momento em que o crush te nota ♥️ URL",positiva
+"brendans death song monarchy of roses meet me at the corner URL",positiva
+"rt fahpaivaa caracooos vamos ajudar nessa causa e de quebra dar aquele abraço totoso no nosso fav kaysardadour ❤️🍔🍟 URL",positiva
+"ingiants are playing at 615 🤘🎸 URL",positiva
+"mas do que justo URL",positiva
+"getting a serious brotherhood of nod vibe URL",positiva
+"today is the day come down to the cnegaminggarage powered by amd  open until sunday august 26 letsgototheex URL",positiva
+"looking forward to this game once i get a vr set URL",positiva
+"sextouuuuuuu ❤️ URL",positiva
+"eu URL",positiva
+"wuoooh m URL",positiva
+"oh good URL",positiva
+"eu ft stranger things URL",positiva
+"rt bstbndnthwrld pretty much the heart and message of gettintheband on broadway great sayreville minds think alike rockon injerseyhe…",positiva
+"so cool ai  movies themeg URL",positiva
+"flashbackfriday metoo URL",positiva
+"delighted  excited about the possibility that this opportunity presents for students  local businesses in the ssa developer ecosystem 💪🔥 URL",positiva
+"o ciclo sem fiiiimmm URL",positiva
+"this is a good creative team i’d really love to see the series printed in an oversized format similar to dc’s black label books URL",positiva
+"saveshadowhunters made the list i’m so proud ❤️ URL",positiva
+"after 72 hours of silence this is the best you can come up with URL",positiva
+"i wonder if the seats are made out of lego too URL",positiva
+"camera eyes voice recognition cloudstored memories oh boy internetofdogs URL",positiva
+"um dos melhores URL",positiva
+"bora caracos comer um big mac no sábado  moro em vila velha es e não vou perder URL",positiva
+"i think tesla is the only car brand to do so like that thanks elonmusk tesla URL",positiva
+"rt elon musk emhivemind tesla spacex startups URL",positiva
+" elonmusk  art in motion  from a friend in cal URL",positiva
+"eu na vida URL",positiva
+"uma causa nobre parabéns fico feliz URL",positiva
+"proud mom over here lola  lutz are now social famous 🐶💗 URL",positiva
+"exciting announcement today  hope to see you there URL",positiva
+"todays tbt is brought to you by 50 years of racing success URL",positiva
+"💞 URL",positiva
+"sem tirar nem por kkkk URL",positiva
+"finalmente aprendi como comprar carne URL",positiva
+"eu com fargo URL",positiva
+"quem me dera que eu chegasse no bk comprar esse lanche e ele vim igual esta na foto URL",positiva
+"mighty honda❤️ URL",positiva
+"lockjaw at the top i love facts URL",positiva
+"lacrou URL",positiva
+"ahhhh my next computerrelated wish list item URL",positiva
+"omg i need to go here  URL",positiva
+"i was there and bonjovi rock them all 🤘🏼🤘🏼🤘🏼🤘🏼 URL",positiva
+"does this man ever stop URL",positiva
+"such powerful psychology and linguistics bases hes using URL",positiva
+"lol URL",positiva
+"we truly appreciate all that toyota did to support the communities devastated by hurricaneharvey  thank you from everyone at nationalace URL",positiva
+"isso foi aq no meu país amapá kkkkk URL",positiva
+"rt alexxalexalvess marketing do mac enfatizando e respondendo ao kaysar e o que vc vê hoje URL",positiva
+"twitter snapped lmao 😆 URL",positiva
+"por um segundo achei que era o jimmy fallon URL",positiva
+"we just want crossplay URL",positiva
+"thanks skype URL",positiva
+"eu URL",positiva
+"mano eu kkkkkkk URL",positiva
+"sou URL",positiva
+"ure the best my biggest inspiration URL",positiva
+"quase jamie quase jamie URL",positiva
+"me define 😅 URL",positiva
+"shut uphdhsj URL",positiva
+"mal da de URL",positiva
+"mood URL",positiva
+"thats barney lumsden from perfect curve URL",positiva
+"rs URL",positiva
+"cansada pra caralho disso mano e ainda tem gente que acha que é mimimi que feminicidio nao existe vontade de abrir a cabeça pra ver se tem o cerebro ainda URL",positiva
+"é pelo visto eu vou ter que ir no bk hoje afinal apesar de eu estar enjoado de fast food os caras conseguem se redefinir pra entupir minhas veias e quem sou eu pra negar isso n eh msm URL",positiva
+"rt jeonsnat my lungs URL",positiva
+"rt ifos9000 straight outta nasa URL space cosmos universe science astronomy climate nasa",positiva
+"get yo science on URL",positiva
+"pena foi só sobre a jf URL",positiva
+"oh btch we did that btstwt URL",positiva
+"i cant wait for this URL",positiva
+"this is a well worded tweet that has 0 mention of “thoughts and prayers” which brings the question of why ubisoft’s publicists are better than trump’s URL",positiva
+"marketing do mac enfatizando e respondendo ao kaysar e o que vc vê hoje URL",positiva
+"uma afrontaaaaaaa URL",positiva
+"rt dscibbul this is just the beginning for young africa studentsall thanks to solomonawosupin ericakhanson aniediudo googledevs …",positiva
+"caralhoooooooo gabrielarievok olivernycius URL",positiva
+"rt colornmatt ahhhhhh yeah new gig i love the writer and artist a legend of a cover painter i love coloring the kind of stuff bound t…",positiva
+"que chido URL",positiva
+"rt 12willpower foofighters should make a day trip up to the portlandgp tomorrow indycar and i will take care of you URL",positiva
+"a gente mesmo de outra cidade se compra vai ta ajudando  kaysardadour URL",positiva
+"2 mins silence for root users URL",positiva
+"rt lolamby what ive been getting up to as the debian project leader this month URL",positiva
+"exatamente assim URL",positiva
+"hueheueheueheuehe URL",positiva
